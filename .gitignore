@@ -536,3 +536,8 @@ TSWLatexianTemp*
 #*Notes.bib
 
 wlokna/
+
+data/
+generated_data/
+models/
+data.zip
